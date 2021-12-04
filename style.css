@@ -1,0 +1,66 @@
+h1
+{
+	color: white;
+}
+h2
+{
+	size: 10px;
+	font: 1em "Fira Sans", sans-serif;
+}
+
+body
+{
+	background-image: linear-gradient(rgba(24, 29, 49, 1), rgba(22, 24, 83, 1));
+}
+
+#carte
+{
+	width: 1280px;
+	margin: 0 auto;
+	background-color: #2E4C6D;
+	text-align: center;
+	background-image: linear-gradient(rgba(24, 29, 49, 0.5), rgba(22, 24, 83, 0.5));
+	align-content: center;
+	font: 1em "Fira Sans", sans-serif;
+	color: white;
+}
+
+ul li
+{
+	list-style-type: none;
+}
+
+#BarreSup
+{
+	width: 1560px;
+	margin: 0;
+	background-color: #b1ddf1;
+	align-content: center;
+	vertical-align: center;
+	font: 1em "Fira Sans", sans-serif;
+}
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 0px;
+}
+#laterale
+{
+	width: 250px;
+	margin: 0px;
+	background-color: #2E4C6D;
+	background-image: linear-gradient(rgba(24, 29, 49, 0.5), rgba(22, 24, 83, 0.5));
+	align-content: center;
+	text-align: centerhh;
+	text-align: 0;
+	font: 1em "Fira Sans", sans-serif;
+	color: white;
+}
+#link 
+{
+	color: blue;
+}
+a
+{
+	color: white;
+}

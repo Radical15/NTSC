@@ -40,6 +40,16 @@ ul li
 	font: 1em "Fira Sans", sans-serif;
 	margin-top: 0px;
 }
+#Separateur
+{
+	width: 1280px;
+	margin: 0;
+	background-color: white;
+	align-content: center;
+	vertical-align: center;
+	font: 1em "Fira Sans", sans-serif;
+	margin-top: 0px;
+}
 .container {
     display: grid;
     grid-template-columns: 1fr 1fr;

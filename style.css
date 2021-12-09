@@ -34,7 +34,6 @@ ul li
 {
 	width: 1560px;
 	margin: 0;
-	background-color: white;
 	align-content: center;
 	vertical-align: center;
 	font: 1em "Fira Sans", sans-serif;
@@ -49,6 +48,7 @@ ul li
 	vertical-align: center;
 	font: 1em "Fira Sans", sans-serif;
 	margin-top: 0px;
+	color: #1C1C1C;
 }
 .container {
     display: grid;

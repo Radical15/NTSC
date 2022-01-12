@@ -50,19 +50,18 @@ ul li
 
 #BarreSup
 {
-	width: 100%;
+	width: 90%;
 	margin: 0;
 	align-content: center;
 	vertical-align: center;
 	font: 1em "Fira Sans", sans-serif;
 	margin-top: 0px;
-	background-color: white;
+	background-color: #141414;
 }
 #Separateur
 {
 	width: 1280px;
 	margin: 0;
-	background-color: white;
 	align-content: center;
 	vertical-align: center;
 	font: 1em "Fira Sans", sans-serif;
@@ -88,6 +87,14 @@ ul li
 {
 	color: #212121;
 }
+#bttbar
+{
+	color: #212121;
+	border: 2px solid grey;
+	border-radius: 10px;
+	background: white;
+	padding: 3px 10px;
+}
 a
 {
 	color: white;
@@ -103,4 +110,16 @@ a
 #arrondi
 {
 	border-radius: 2%;
+}
+#small
+{
+	width: 40%;
+	height: auto;
+}
+#image
+{
+	width: 15%;
+	margin: 0px;
+	align-content: center;
+	text-align: auto 0;
 }

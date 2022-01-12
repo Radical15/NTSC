@@ -123,3 +123,11 @@ a
 	align-content: center;
 	text-align: auto 0;
 }
+.spoiler_flou {
+filter: blur(15px);
+transition-property: -webkit-filter;
+transition-duration: .5s;
+}
+.spoiler_flou:hover, .spoiler_flou:focus {
+filter: blur(0px);
+}
